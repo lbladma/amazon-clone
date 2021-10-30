@@ -6,8 +6,11 @@ function App() {
     //BEM
     <div className="App">
       <h1>Hello World. Let's build amazon store. 🚀 </h1>
+      { /* Header */ }
+      { /* Home */ }
     </div>
   );
+
 }
 
 export default App;
